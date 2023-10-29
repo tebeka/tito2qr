@@ -1,4 +1,4 @@
-module tito2qr
+module github.com/tebeka/tito2qr
 
 go 1.21
 

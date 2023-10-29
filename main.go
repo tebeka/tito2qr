@@ -15,7 +15,7 @@ import (
 )
 
 var usage = `usage: %s [options]
-Encode exported ti.to attendee CSV to QR images with VCARD information.
+Generate QR images (PNG) with VCARD information from exported ti.to attendee CSV.
 
 `
 
